@@ -1,0 +1,9 @@
+[package]
+name = "nomer888/bindtotag"
+description = "Utility function to bind a CollectionService tag to a callback"
+version = "0.1.0"
+license = "MIT"
+realm = "shared"
+registry = "https://github.com/UpliftGames/wally-index"
+
+[dependencies]
